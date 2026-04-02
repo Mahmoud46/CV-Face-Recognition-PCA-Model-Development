@@ -58,15 +58,19 @@ data/
 
 ---
 
+## Face Preporcessing Pipeline
+
+![Face Preporcessing Pipeline](./assets/preprocessing_pipeline.png)
+
 ## Model Training Pipeline
 
 The training process follows the pipeline below:
 
-![Model Training Pipeline](./assets/model_training_pipeline.png)
+![Model Training Pipeline](./assets/training_pipeline.png)
 
 ## Recognition Pipeline
 
-![Face Recognition Pipeline](./assets/face_recognition_pipeline.png)
+![Face Recognition Pipeline](./assets/recognition_pipeline.png)
 
 ## Model Evaluation
 

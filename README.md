@@ -79,7 +79,7 @@ The training process follows the pipeline below:
 - **Recall (Sensitivity):** TP / (TP + FN) = 115 / (115 + 29) ≈ 79.87%
 - **F1-Score:** 2 _ (Precision _ Recall) / (Precision + Recall) ≈ 87.0%
 
-## ![Model Evaluation](./assets/model_evaluation_roc_cm.png)
+![Model Evaluation](./assets/model_evaluation_roc_cm.png)
 
 ## Key Characteristics
 
